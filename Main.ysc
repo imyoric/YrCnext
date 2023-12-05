@@ -1,0 +1,6 @@
+return "f"
+print "ad"
+
+FUNC hehe
+    print "its hehe print!"
+END
